@@ -12,7 +12,8 @@ Galaxy clusters and galaxy evolution,
 Stellar mass functions and density profiles, 
 Black Hole Collisions, 
 Space-time curvature near black holes, 
-Type Ia Supernovae (SNe Ia) and their use in cosmology, 
+Type Ia Supernovae (SNe Ia) and their use in cosmology.
+
 The hands-on sessions will focus on data access, reduction, analysis and simulation tools, and modeling techniques used by current researchers and astronomers.
 
 Participants:
