@@ -33,3 +33,8 @@ Selection will be based on programming experience, motivation, and how participa
 `Location`:
 1st week lecture sessions: Virtual/Remote
 2nd week Hands-on sessions: SUST-Campus, Sylhet (Offline/In person)
+
+## Installation
+
+`Python`
+`Environment`
