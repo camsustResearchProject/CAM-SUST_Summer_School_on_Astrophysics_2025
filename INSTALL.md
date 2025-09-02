@@ -131,20 +131,34 @@ Download the environment.yml file from [here](https://drive.google.com/drive/fol
 ### Session: Fitting SNe Ia light-curves
 
 - BayeSN: - we will use if for workshop https://bayesn.readthedocs.io/en/stable/installation.html
+```
+>> pip install bayesn
+```
 
 - Example to use: https://github.com/bayesn/bayesn/blob/main/example_fits.ipynb
 
+
 - SNooPy https://csp.obs.carnegiescience.edu/data/snpy/installing_snoopy2
+```
+>>pip install snpy
+```
 
 - Example https://colab.research.google.com/drive/154VkktIv6OjogWBRd9JtexgbCoyO8viK
 
 - SN Ia spectral classification:
 
 - ML based: https://github.com/daniel-muthukrishna/astrodash
+```
+>>pip install astrodash --upgrade
+```
 
 - Template-based: we will use it for workshop 
 
 https://github.com/FiorenSt/SNID-SAGE
+```
+>> pip install snid-sage
+You can open it using >> snid-sage
+```
 
 Or 
 
