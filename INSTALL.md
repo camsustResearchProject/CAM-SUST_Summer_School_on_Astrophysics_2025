@@ -120,7 +120,7 @@ Congrats! If you've successfully set up your Miniconda environment with Bagpipes
 ### Session: NIRSpec (JWST) Data Reduction: From Archive to Science-Ready Spectra
 
 Create conda environment:
-Download the environment.yml file from here.
+Download the environment.yml file from [here](https://drive.google.com/drive/folders/1ENiULtHLNxbkn5Aom9gg6oHMPWWDGxpl?usp=sharing).
 ```
 >>conda env create -f environment.yml
 >>pip install git+https://github.com/karllark/dust_attenuation.git
