@@ -140,7 +140,7 @@ Download the environment.yml file from [here](https://drive.google.com/drive/fol
 
 - SNooPy https://csp.obs.carnegiescience.edu/data/snpy/installing_snoopy2
 ```
->>pip install snpy
+>> pip install snpy
 ```
 
 - Example https://colab.research.google.com/drive/154VkktIv6OjogWBRd9JtexgbCoyO8viK
@@ -149,7 +149,7 @@ Download the environment.yml file from [here](https://drive.google.com/drive/fol
 
 - ML based: https://github.com/daniel-muthukrishna/astrodash
 ```
->>pip install astrodash --upgrade
+>> pip install astrodash --upgrade
 ```
 
 - Template-based: we will use it for workshop 
