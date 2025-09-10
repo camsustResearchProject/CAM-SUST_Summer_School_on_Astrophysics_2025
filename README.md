@@ -29,7 +29,7 @@ The program is intended for undergraduate students (1st to 4th year), and early-
 Selection will be based on programming experience, motivation, and how participants may benefit from the summer school. Participants must bring their own laptops with a working internet browser and be ready for coding-based hands-on sessions. <br>
 
 `Program Starts`: 3 September 2025 <br>
-`Program Ends`: 14 September 2025 <br>
+`Program Ends`: 12 September 2025 <br>
 `Location`:
 1st week lecture sessions: Virtual/Remote
 2nd week Hands-on sessions: SUST-Campus, Sylhet (Offline/In person)
