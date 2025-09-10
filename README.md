@@ -24,7 +24,7 @@ The weekday schedule includes lecture sessions covering astrophysical topics and
 The hands-on sessions will focus on data access, reduction, analysis and simulation tools, and modeling techniques used by current researchers and astronomers.
 
 `Participants`:
-The workshop is intended for undergraduate students (1st to 4th year), and early-career researchers in Bangladesh who are motivated to pursue a research career in astronomy. Applicants from science, engineering, or related fields are welcome. Basic familiarity with programming (preferably Python) is expected. <br>
+The program is intended for undergraduate students (1st to 4th year), and early-career researchers in Bangladesh who are motivated to pursue a research career in astronomy. Applicants from science, engineering, or related fields are welcome. Basic familiarity with programming (preferably Python) is expected. <br>
 
 Selection will be based on programming experience, motivation, and how participants may benefit from the summer school. Participants must bring their own laptops with a working internet browser and be ready for coding-based hands-on sessions. <br>
 
