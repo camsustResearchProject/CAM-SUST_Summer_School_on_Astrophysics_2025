@@ -1,6 +1,6 @@
 # CAM-SUST Summer School on Astrophysics 2025
 
-[![Static Badge](https://img.shields.io/badge/Made%20at-CAMSUST-8A2BE2)](https://summerschool.cam-sust.org/)
+[![Static Badge](https://img.shields.io/badge/Made%20at-CAM-SUST-8A2BE2)](https://summerschool.cam-sust.org/)
 
 
 
